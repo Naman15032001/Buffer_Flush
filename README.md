@@ -1,8 +1,9 @@
 ## FLOW OF THE PROJECT 
 
-![FLOW_CHART](https://github.com/Naman15032001/Buffer_Flush/assets/71309281/fdc65ee4-4fbe-4226-8f23-4e06440065b4)
+![ABC](https://github.com/Naman15032001/Buffer_Flush/assets/71309281/0b2349d3-51c9-4c8a-9417-ed1472058697)
 
 ## ASSUMPTIONS
 
 1) DIDNT USE STREAMING APPROACH AS (not continous log to the file ), ONLY NEED TO FLUSH THE BUFFER DIRECTLY IN THE LOG FILE ONCE FULL 
+
 
